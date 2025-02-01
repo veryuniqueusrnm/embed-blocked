@@ -1,4 +1,4 @@
-# embed-blocked
+# embed-blocker
 Block others ability to embed or iframe your website without server-side.
 
 # What is this?
